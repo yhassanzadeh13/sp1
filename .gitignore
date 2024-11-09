@@ -41,3 +41,4 @@ crates/prover/vk
 
 # Example legacy elf
 examples/elf 
+.idea/
